@@ -1,0 +1,32 @@
+{
+  "cities": [
+    {
+      "name": "Adana",
+      "woeid": 2343678
+    },
+    {
+      "name": "Ankara",
+      "woeid": 2343732
+    },
+    {
+      "name": "Antalya",
+      "woeid": 2343733
+    },
+    {
+      "name": "Bursa",
+      "woeid": 2343843
+    },
+    {
+      "name": "Istanbul",
+      "woeid": 2344116
+    },
+    {
+      "name": "Izmir",
+      "woeid": 2344117
+    },
+    {
+      "name": "Konya",
+      "woeid": 2344210
+    }
+  ]
+}
