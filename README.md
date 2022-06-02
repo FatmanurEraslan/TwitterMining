@@ -40,14 +40,3 @@ All PR’s are welcome!
 1. `push` your `branch` (`git push origin my-features`)
 1. Than create a new **Pull Request**!
 
-## Change Log
-
-**2019-09-03**
-
-- Removed irrelevant files
-- Added `.gitignore`
-- Updated `README.md`
-
-**2019-08-28**
-
-- Initial start
