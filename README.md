@@ -14,7 +14,7 @@ This project requires `Python 3.9.0` or newer run-time.
 ```sh
 $ git clone  https://github.com/FatmanurEraslan/TwitterMining
 $ cd TwitterMining
-$ npm i
+$ pip install tweepy
 ```
 
 
